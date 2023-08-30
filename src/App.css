@@ -1,0 +1,23 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+ 
+}
+h1{
+    font-size: 40px;
+  text-align: center;
+}
+.footer{
+  display: flex;
+  justify-content: space-between;
+}

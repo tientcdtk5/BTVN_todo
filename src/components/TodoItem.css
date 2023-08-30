@@ -1,0 +1,8 @@
+.todo-item {
+    width: 100%;
+    display: flex;
+    gap: 3px;
+    align-items: center;
+    border: 1px solid rgba(68, 68, 219, 0.099);
+    margin: 2px 0;
+  }

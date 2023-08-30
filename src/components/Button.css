@@ -1,0 +1,37 @@
+.btn {
+    border: 0;
+    border-radius: 0;
+    transition: background-color 0.2s;
+    padding: 10px 20px;
+  }
+  
+  .btn-primary {
+    background-color: rgba(43, 98, 238, 0.9);
+    color: #ffffff;
+  }
+  
+  .btn-primary:hover {
+    background-color: rgba(43, 98, 238, 0.9);
+  }
+  
+  .btn-primary:focus,
+  .btn-primary:active {
+    box-shadow: 0 0 0 3px rgba(43, 98, 238, 0.523);
+  }
+  
+  .btn-danger {
+
+    background-color: rgb(241, 60, 60, 0.9);
+    color: #ffffff;
+  }
+  
+  .btn-danger:hover {
+
+    background-color: rgb(241, 60, 60);
+  }
+  
+  .btn-danger:focus,
+  .btn-danger:active {
+    box-shadow: 0 0 0 3px rgba(241, 60, 60, 0.3);
+  }
+  

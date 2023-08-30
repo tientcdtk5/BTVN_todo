@@ -1,0 +1,12 @@
+.todo-input {
+    padding: 9px 9px;
+    border: 1px solid  rgba(43, 98, 238, 0.547);
+    border-radius: 0;
+    width: 70%;
+  }
+  
+  .todo-input:focus {
+    outline: none;
+    border-color: rgba(43, 98, 238, 0.9);
+  }
+  

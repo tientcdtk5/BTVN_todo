@@ -1,0 +1,20 @@
+.filter-option-radio {
+    border-radius: 9999px;
+    width: 13px;
+    height: 13px;
+    border: 1px solid rgba(238, 43, 238, 0.1);
+    appearance: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .filter-option-radio:checked {
+    border: 3px solid rgba(238, 43, 238, 0.9);
+  }
+  
+  .filter-option-label {
+    display: inline-flex;
+    align-items: center;
+    gap: 3px;
+  }
+  
